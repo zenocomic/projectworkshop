@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.php.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/php-project/1">
+            <name>claim</name>
+        </data>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>กษา</word>
+            <word>กษาคณะ</word>
+            <word>กษาณณะ</word>
+            <word>ขอลาออก</word>
+            <word>คำร</word>
+            <word>จำนวน</word>
+            <word>ชา</word>
+            <word>ชาเอก</word>
+            <word>ต</word>
+            <word>น</word>
+            <word>ปกครอง</word>
+            <word>ยนควบ</word>
+            <word>ยนเลขประจำต</word>
+            <word>ยม</word>
+            <word>ยหาย</word>
+            <word>ระบบ</word>
+            <word>ล</word>
+            <word>วย</word>
+            <word>วไป</word>
+            <word>สาขา</word>
+            <word>อ</word>
+            <word>องจาก</word>
+            <word>า</word>
+            <word>ายคณะ</word>
+            <word>ายสาขา</word>
+            <word>โทร</word>
+            <word>ในภาค</word>
+            <word>ใบลา</word>
+        </spellchecker-wordlist>
+    </configuration>
+</project>
